@@ -24,3 +24,8 @@ DVCS, que a gente vai ver mais adiante.
 Software de controle de verção.
 6 - O que é o push.
 Enviar informações que foram empacotadas para o repositório remoto.
+
+7 - O que é merge?
+Merge é a junção das alterações temporárias feitas no brach para inserir no brach main.
+8 - O que é branch?
+É um caminho alternativo na linha da vida para salvar as alterações no projeto.
